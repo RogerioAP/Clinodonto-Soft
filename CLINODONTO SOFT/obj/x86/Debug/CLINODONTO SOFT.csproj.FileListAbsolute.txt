@@ -1,0 +1,137 @@
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\usuario\Meus documentos\Visual Studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmControle_Consultas.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAnamnese.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmProntuario.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Odontograma.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Odontograma.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmControle_Consultas.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAnamnese.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmProntuario.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento_selecionar.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmCadastrar_paciente.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscardentista.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscaSecretaria.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmCadastrardentista.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmNovodentista.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscardentista.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscaSecretaria.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmCadastrardentista.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmNovodentista.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Odontograma.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmControle_Consultas.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento_selecionar.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAnamnese.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmCadastrar_paciente.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmProntuario.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT - Cópia\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscardentista.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscaSecretaria.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmCadastrardentista.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmNovodentista.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Odontograma.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmControle_Consultas.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento_selecionar.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAnamnese.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmCadastrar_paciente.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmProntuario.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Downloads\CLINODONTO SOFT -\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Downloads\clinodontosoft\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+D:\Downloads\clinodontosoft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+D:\Downloads\clinodontosoft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb

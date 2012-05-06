@@ -1,0 +1,46 @@
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.pdb
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Login.resources
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Splash.resources
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Properties.Resources.resources
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.pdb
+C:\Documents and Settings\usuario\Configurações locais\Dados de aplicativos\Temporary Projects\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.TelaPrincipal.resources
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.pdb
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Login.resources
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Splash.resources
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Properties.Resources.resources
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.TelaPrincipal.resources
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.exe
+C:\Documents and Settings\usuario\meus documentos\visual studio 2010\Projects\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.pdb
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.pdb
+E:\G A B R I E L - Geral\Projetos em andamento\C#\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe.config
+C:\Users\IFNMG\Downloads\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe.config
+C:\Users\IFNMG\Downloads\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.exe
+C:\Users\IFNMG\Downloads\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.pdb
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe.config
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.exe
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.pdb
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\ResolveAssemblyReference.cache
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Odontograma.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.frmControle_Consultas.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Login.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Splash.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.TelaPrincipal.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmAnamnese.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmProntuario.resources
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.read.1.tlog
+K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.write.1.tlog
