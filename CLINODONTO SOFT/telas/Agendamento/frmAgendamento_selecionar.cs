@@ -20,5 +20,10 @@ namespace CLINODONTO_SOFT.telas
         {
             new frmAgendamento().ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

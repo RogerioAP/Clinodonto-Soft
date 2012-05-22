@@ -37,7 +37,8 @@ namespace CLINODONTO_SOFT
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
-           /* MySqlConnection conn = new MySqlConnection(Conn.connectionstring);
+            new TelaPrincipal().ShowDialog();
+            /* MySqlConnection conn = new MySqlConnection(Conn.connectionstring);
             MySqlCommand comado = new MySqlCommand("SELECT COUNT(*) FROM Login WHERE Login = @Login and Senha = @Senha", conn);
 
 

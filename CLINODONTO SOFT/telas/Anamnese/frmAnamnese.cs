@@ -20,5 +20,10 @@ namespace CLINODONTO_SOFT.telas
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

@@ -23,7 +23,7 @@ namespace CLINODONTO_SOFT.telas
 
         private void button2_Click(object sender, EventArgs e)
         {
-            new Odontograma().ShowDialog();
+            new frmExameDental().ShowDialog();
         }
 
         private void btnAdicionar_Click(object sender, EventArgs e)
@@ -39,6 +39,11 @@ namespace CLINODONTO_SOFT.telas
         private void button4_Click(object sender, EventArgs e)
         {
             new Cadastro_Exame_Externo().ShowDialog();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

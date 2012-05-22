@@ -98,10 +98,10 @@
     <Compile Include="telas\Controle_de_usuarios\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="Splash.cs">
+    <Compile Include="telas\Splash.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Splash.Designer.cs">
+    <Compile Include="telas\Splash.Designer.cs">
       <DependentUpon>Splash.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -202,7 +202,7 @@
     <EmbeddedResource Include="telas\Controle_de_usuarios\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Splash.resx">
+    <EmbeddedResource Include="telas\Splash.resx">
       <DependentUpon>Splash.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -263,36 +263,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\11.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\21.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\51.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\41.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\31.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\12.png" />
   </ItemGroup>
   <ItemGroup>
@@ -308,22 +278,73 @@
     <None Include="Resources\32.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\13.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\23.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\53.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\43.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\33.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="telas\controle_de_documentos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\52.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\37.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\53.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -15,5 +15,10 @@ namespace CLINODONTO_SOFT.telas
         {
             InitializeComponent();
         }
+
+        private void btncancelaragendamento_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

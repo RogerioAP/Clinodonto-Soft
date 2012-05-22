@@ -25,5 +25,10 @@ namespace CLINODONTO_SOFT.telas.Controle_de_usuarios
         {
             new frmNovodentista().ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

@@ -44,3 +44,34 @@ K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLIN
 K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmProntuario.resources
 K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.read.1.tlog
 K:\Rogério 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.write.1.tlog
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\ResolveAssemblyReference.cache
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscardentista.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscaSecretaria.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmCadastrardentista.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmNovodentista.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.frmExameDental.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.frmControle_Consultas.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Login.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Splash.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.TelaPrincipal.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmAgendamento.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmAgendamento_selecionar.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmAnamnese.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmCadastrar_paciente.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmProntuario.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmSobre.resources
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.read.1.tlog
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\GenerateResource.write.1.tlog
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.exe
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.pdb
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe.config
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.pdb
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\MySql.Data.dll
+J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Properties.Resources.resources

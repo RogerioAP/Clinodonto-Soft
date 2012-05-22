@@ -21,7 +21,9 @@ namespace CLINODONTO_SOFT
            try 
             {
                 //Conn.Conectar("");
-               new TelaPrincipal().ShowDialog();
+                new Login().ShowDialog();
+                //new frmExameDental().ShowDialog();
+               //new TelaPrincipal().ShowDialog();
                 //new frmControle_Consultas().ShowDialog();
 
             }

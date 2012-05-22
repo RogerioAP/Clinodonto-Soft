@@ -31,6 +31,7 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmControle_pacientes));
             this.btnProntuario = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -46,10 +47,10 @@
             // 
             // btnProntuario
             // 
-            this.btnProntuario.Location = new System.Drawing.Point(732, 288);
-            this.btnProntuario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnProntuario.Location = new System.Drawing.Point(549, 234);
+            this.btnProntuario.Margin = new System.Windows.Forms.Padding(2);
             this.btnProntuario.Name = "btnProntuario";
-            this.btnProntuario.Size = new System.Drawing.Size(92, 33);
+            this.btnProntuario.Size = new System.Drawing.Size(69, 27);
             this.btnProntuario.TabIndex = 20;
             this.btnProntuario.Text = "Protuário";
             this.btnProntuario.UseVisualStyleBackColor = true;
@@ -58,66 +59,67 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(26, 41);
+            this.label1.Location = new System.Drawing.Point(20, 33);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(127, 17);
+            this.label1.Size = new System.Drawing.Size(97, 13);
             this.label1.TabIndex = 19;
             this.label1.Text = "Nome do paciente:";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(159, 37);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox1.Location = new System.Drawing.Point(119, 30);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(553, 22);
+            this.textBox1.Size = new System.Drawing.Size(416, 20);
             this.textBox1.TabIndex = 18;
             // 
             // btnBuscar
             // 
-            this.btnBuscar.Location = new System.Drawing.Point(719, 24);
-            this.btnBuscar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnBuscar.Location = new System.Drawing.Point(539, 20);
+            this.btnBuscar.Margin = new System.Windows.Forms.Padding(2);
             this.btnBuscar.Name = "btnBuscar";
-            this.btnBuscar.Size = new System.Drawing.Size(92, 34);
+            this.btnBuscar.Size = new System.Drawing.Size(69, 28);
             this.btnBuscar.TabIndex = 17;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
             // 
             // btnImportar
             // 
-            this.btnImportar.Location = new System.Drawing.Point(732, 250);
-            this.btnImportar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnImportar.Location = new System.Drawing.Point(549, 203);
+            this.btnImportar.Margin = new System.Windows.Forms.Padding(2);
             this.btnImportar.Name = "btnImportar";
-            this.btnImportar.Size = new System.Drawing.Size(92, 33);
+            this.btnImportar.Size = new System.Drawing.Size(69, 27);
             this.btnImportar.TabIndex = 16;
             this.btnImportar.Text = "Importar";
             this.btnImportar.UseVisualStyleBackColor = true;
             // 
             // btnExportar
             // 
-            this.btnExportar.Location = new System.Drawing.Point(732, 210);
-            this.btnExportar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnExportar.Location = new System.Drawing.Point(549, 171);
+            this.btnExportar.Margin = new System.Windows.Forms.Padding(2);
             this.btnExportar.Name = "btnExportar";
-            this.btnExportar.Size = new System.Drawing.Size(92, 34);
+            this.btnExportar.Size = new System.Drawing.Size(69, 28);
             this.btnExportar.TabIndex = 15;
             this.btnExportar.Text = "Exportar";
             this.btnExportar.UseVisualStyleBackColor = true;
             // 
             // btnExcluir
             // 
-            this.btnExcluir.Location = new System.Drawing.Point(732, 170);
-            this.btnExcluir.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnExcluir.Location = new System.Drawing.Point(549, 138);
+            this.btnExcluir.Margin = new System.Windows.Forms.Padding(2);
             this.btnExcluir.Name = "btnExcluir";
-            this.btnExcluir.Size = new System.Drawing.Size(92, 34);
+            this.btnExcluir.Size = new System.Drawing.Size(69, 28);
             this.btnExcluir.TabIndex = 14;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = true;
             // 
             // btnEditar
             // 
-            this.btnEditar.Location = new System.Drawing.Point(732, 130);
-            this.btnEditar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnEditar.Location = new System.Drawing.Point(549, 106);
+            this.btnEditar.Margin = new System.Windows.Forms.Padding(2);
             this.btnEditar.Name = "btnEditar";
-            this.btnEditar.Size = new System.Drawing.Size(92, 34);
+            this.btnEditar.Size = new System.Drawing.Size(69, 28);
             this.btnEditar.TabIndex = 13;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
@@ -125,10 +127,10 @@
             // 
             // btnAdicionar
             // 
-            this.btnAdicionar.Location = new System.Drawing.Point(732, 90);
-            this.btnAdicionar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnAdicionar.Location = new System.Drawing.Point(549, 73);
+            this.btnAdicionar.Margin = new System.Windows.Forms.Padding(2);
             this.btnAdicionar.Name = "btnAdicionar";
-            this.btnAdicionar.Size = new System.Drawing.Size(92, 34);
+            this.btnAdicionar.Size = new System.Drawing.Size(69, 28);
             this.btnAdicionar.TabIndex = 12;
             this.btnAdicionar.Text = "Adicionar";
             this.btnAdicionar.UseVisualStyleBackColor = true;
@@ -153,8 +155,8 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dataGridView1.Location = new System.Drawing.Point(28, 92);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dataGridView1.Location = new System.Drawing.Point(21, 75);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView1.Name = "dataGridView1";
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
@@ -165,14 +167,15 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(684, 528);
+            this.dataGridView1.Size = new System.Drawing.Size(513, 429);
             this.dataGridView1.TabIndex = 11;
             // 
             // frmControle_pacientes
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(856, 651);
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ClientSize = new System.Drawing.Size(642, 529);
             this.Controls.Add(this.btnProntuario);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
@@ -183,8 +186,12 @@
             this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.btnAdicionar);
             this.Controls.Add(this.dataGridView1);
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.MaximizeBox = false;
             this.Name = "frmControle_pacientes";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "x";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
