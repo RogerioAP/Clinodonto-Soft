@@ -23,7 +23,7 @@ namespace CLINODONTO_SOFT.telas
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            new frmFicha_clinica().ShowDialog();
+            new frmProntuario().ShowDialog();
         }
     }
 }

@@ -8,10 +8,9 @@ namespace CLINODONTO_SOFT.classes
 {
     public class Conn
     {
-        
         public static MySqlConnection mConn;
-        static string connectionstring;/* = "server=localhost;database=trabalhofinal;" +
-            "uid=root; pwd='123456'";*/
+        //buscar das variaveis de programa
+        static string connectionstring;
         static MySqlConnectionStringBuilder myCSB = new MySqlConnectionStringBuilder();
 
         static public String hostDB { get; set; }
@@ -22,11 +21,17 @@ namespace CLINODONTO_SOFT.classes
 
         static public String Database { get; set; }
 
-        public static void Conectar(string bd) 
+        public static void CriarTabelas(string sql)
+        {
+            MySqlCommand commS = new MySqlCommand(sql, Conn.mConn);
+            Conn.ExecuteNonQuery(commS);
+        }
+
+        public static void Conectar(string bd)   //esse parâmetro vai ser o BD a qual o software vai se conectar no cado "odont"
         {
             try
             {
-                          
+
                 connectionstring = "server=" + ConfigurationSettings.AppSettings["hostDB"].ToString();
                 connectionstring += ";database=" + bd/*ConfigurationSettings.AppSettings["database"].ToString()*/;
                 connectionstring += ";uid=" + ConfigurationSettings.AppSettings["userDB"].ToString();
@@ -41,7 +46,6 @@ namespace CLINODONTO_SOFT.classes
             }
         }
 
-      
         public static void ExecuteNonQuery(MySqlCommand commS)
         {
             if (mConn.State == ConnectionState.Open)
@@ -63,7 +67,7 @@ namespace CLINODONTO_SOFT.classes
         {
             if (mConn.State == ConnectionState.Open)
             {
-    
+                //Executa a SQL no banco de dados
                 try
                 {
                     MySqlDataAdapter da = new MySqlDataAdapter();
@@ -75,19 +79,18 @@ namespace CLINODONTO_SOFT.classes
                 }
                 catch (MySqlException e)
                 {
-                    throw e;
+                    throw e; 
                 }
             }
             return null;
         }
-
-         static public void Close()
-        {
-            //mConn.Close();
-            //mConn.Dispose();
-        }
        
 
-
+        static public void Close()
+        {
+            mConn.Close(); //encerra a conexão com o MYSQL
+            mConn.Dispose();
+        }
+       
     }
 }

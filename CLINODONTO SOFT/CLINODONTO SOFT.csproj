@@ -67,6 +67,12 @@
     <Compile Include="telas\Controle_de_usuarios\frmCadastrardentista.Designer.cs">
       <DependentUpon>frmCadastrardentista.cs</DependentUpon>
     </Compile>
+    <Compile Include="telas\Controle_de_usuarios\frmExpediente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telas\Controle_de_usuarios\frmExpediente.Designer.cs">
+      <DependentUpon>frmExpediente.cs</DependentUpon>
+    </Compile>
     <Compile Include="telas\Controle_de_usuarios\frmNovodentista.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -166,9 +172,7 @@
     <Compile Include="telas\frmFicha_clinica_selecionar.Designer.cs">
       <DependentUpon>frmFicha_clinica_selecionar.cs</DependentUpon>
     </Compile>
-    <Compile Include="telas\Controle_pacientes\frmProntuario.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="telas\Controle_pacientes\frmProntuario.cs" />
     <Compile Include="telas\Controle_pacientes\frmProntuario.Designer.cs">
       <DependentUpon>frmProntuario.cs</DependentUpon>
     </Compile>
@@ -186,6 +190,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="telas\Controle_de_usuarios\frmCadastrardentista.resx">
       <DependentUpon>frmCadastrardentista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telas\Controle_de_usuarios\frmExpediente.resx">
+      <DependentUpon>frmExpediente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="telas\Controle_de_usuarios\frmNovodentista.resx">
       <DependentUpon>frmNovodentista.cs</DependentUpon>

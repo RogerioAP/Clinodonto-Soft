@@ -192,3 +192,37 @@ E:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODO
 E:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
 E:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
 E:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscardentista.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscaSecretaria.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmCadastrardentista.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmExpediente.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmNovodentista.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmExameDental.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmControle_Consultas.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento_selecionar.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAnamnese.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmCadastrar_paciente.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmProntuario.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\G A B R I E L - Geral\RogerioAP-Clinodonto-Soft-b8c9fb4\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\G A B R I E L - Geral\Clinodonto-Soft\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+E:\G A B R I E L - Geral\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+E:\G A B R I E L - Geral\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb

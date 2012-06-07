@@ -30,5 +30,10 @@ namespace CLINODONTO_SOFT.telas.Controle_de_usuarios
         {
             Close();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new frmExpediente().ShowDialog();
+        }
     }
 }

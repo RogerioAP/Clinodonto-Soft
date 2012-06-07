@@ -20,6 +20,8 @@ namespace CLINODONTO_SOFT
 
            try 
             {
+                Conn.Conectar("odont");
+
                 //Conn.Conectar("");
                 new Login().ShowDialog();
                 //new frmExameDental().ShowDialog();

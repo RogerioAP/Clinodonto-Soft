@@ -7,18 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace CLINODONTO_SOFT.telas
+namespace CLINODONTO_SOFT.telas.Controle_de_usuarios
 {
-    public partial class frmProntuario : Form
+    public partial class frmExpediente : Form
     {
-        public frmProntuario()
+        public frmExpediente()
         {
             InitializeComponent();
         }
 
-        private void btnAdicionar_Click(object sender, EventArgs e)
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
-            new frmFicha_clinica().ShowDialog();
+            this.Close();
         }
     }
 }
