@@ -45,20 +45,23 @@
             // 
             this.btnConectar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnConectar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnConectar.Location = new System.Drawing.Point(52, 223);
+            this.btnConectar.Location = new System.Drawing.Point(69, 274);
+            this.btnConectar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnConectar.Name = "btnConectar";
-            this.btnConectar.Size = new System.Drawing.Size(83, 37);
+            this.btnConectar.Size = new System.Drawing.Size(111, 46);
             this.btnConectar.TabIndex = 42;
             this.btnConectar.Text = "Conectar";
             this.btnConectar.UseVisualStyleBackColor = false;
+            this.btnConectar.Click += new System.EventHandler(this.btnConectar_Click);
             // 
             // btnCancelar
             // 
             this.btnCancelar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnCancelar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnCancelar.Location = new System.Drawing.Point(141, 223);
+            this.btnCancelar.Location = new System.Drawing.Point(188, 274);
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(83, 37);
+            this.btnCancelar.Size = new System.Drawing.Size(111, 46);
             this.btnCancelar.TabIndex = 43;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = false;
@@ -69,9 +72,10 @@
             this.lblStatusdaconexao.AutoSize = true;
             this.lblStatusdaconexao.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblStatusdaconexao.ForeColor = System.Drawing.Color.Red;
-            this.lblStatusdaconexao.Location = new System.Drawing.Point(155, 19);
+            this.lblStatusdaconexao.Location = new System.Drawing.Point(207, 23);
+            this.lblStatusdaconexao.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblStatusdaconexao.Name = "lblStatusdaconexao";
-            this.lblStatusdaconexao.Size = new System.Drawing.Size(102, 17);
+            this.lblStatusdaconexao.Size = new System.Drawing.Size(118, 20);
             this.lblStatusdaconexao.TabIndex = 48;
             this.lblStatusdaconexao.Text = "não conectado";
             // 
@@ -79,50 +83,56 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(20, 19);
+            this.label5.Location = new System.Drawing.Point(27, 23);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(129, 17);
+            this.label5.Size = new System.Drawing.Size(152, 20);
             this.label5.TabIndex = 47;
             this.label5.Text = "Status da conexão:";
             // 
             // lblServer
             // 
             this.lblServer.AutoSize = true;
-            this.lblServer.Location = new System.Drawing.Point(24, 71);
+            this.lblServer.Location = new System.Drawing.Point(32, 87);
+            this.lblServer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblServer.Name = "lblServer";
-            this.lblServer.Size = new System.Drawing.Size(41, 13);
+            this.lblServer.Size = new System.Drawing.Size(54, 17);
             this.lblServer.TabIndex = 44;
             this.lblServer.Text = "Server:";
             // 
             // txtServer
             // 
-            this.txtServer.Location = new System.Drawing.Point(71, 67);
+            this.txtServer.Location = new System.Drawing.Point(95, 82);
+            this.txtServer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtServer.Name = "txtServer";
-            this.txtServer.Size = new System.Drawing.Size(186, 20);
+            this.txtServer.Size = new System.Drawing.Size(247, 22);
             this.txtServer.TabIndex = 39;
             // 
             // txtSenha
             // 
-            this.txtSenha.Location = new System.Drawing.Point(71, 171);
+            this.txtSenha.Location = new System.Drawing.Point(95, 210);
+            this.txtSenha.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtSenha.Name = "txtSenha";
-            this.txtSenha.Size = new System.Drawing.Size(186, 20);
+            this.txtSenha.Size = new System.Drawing.Size(247, 22);
             this.txtSenha.TabIndex = 41;
             this.txtSenha.UseSystemPasswordChar = true;
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(71, 119);
+            this.txtUsuario.Location = new System.Drawing.Point(95, 146);
+            this.txtUsuario.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(186, 20);
+            this.txtUsuario.Size = new System.Drawing.Size(247, 22);
             this.txtUsuario.TabIndex = 40;
             // 
             // lblSenha
             // 
             this.lblSenha.AutoSize = true;
             this.lblSenha.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblSenha.Location = new System.Drawing.Point(24, 175);
+            this.lblSenha.Location = new System.Drawing.Point(32, 215);
+            this.lblSenha.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSenha.Name = "lblSenha";
-            this.lblSenha.Size = new System.Drawing.Size(41, 13);
+            this.lblSenha.Size = new System.Drawing.Size(53, 17);
             this.lblSenha.TabIndex = 46;
             this.lblSenha.Text = "Senha:";
             // 
@@ -130,18 +140,19 @@
             // 
             this.lblUsuario.AutoSize = true;
             this.lblUsuario.BackColor = System.Drawing.Color.Transparent;
-            this.lblUsuario.Location = new System.Drawing.Point(19, 123);
+            this.lblUsuario.Location = new System.Drawing.Point(25, 151);
+            this.lblUsuario.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblUsuario.Name = "lblUsuario";
-            this.lblUsuario.Size = new System.Drawing.Size(46, 13);
+            this.lblUsuario.Size = new System.Drawing.Size(61, 17);
             this.lblUsuario.TabIndex = 45;
             this.lblUsuario.Text = "Usuário:";
             // 
             // frmConfiguracoes
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.ClientSize = new System.Drawing.Size(285, 275);
+            this.ClientSize = new System.Drawing.Size(380, 338);
             this.Controls.Add(this.btnConectar);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.lblStatusdaconexao);
@@ -154,7 +165,7 @@
             this.Controls.Add(this.lblUsuario);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "frmConfiguracoes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

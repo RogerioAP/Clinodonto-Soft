@@ -33,14 +33,15 @@
             this.txtSenha = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.txtLogin = new System.Windows.Forms.ComboBox();
+            this.txtLogin = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btnEntrar
             // 
-            this.btnEntrar.Location = new System.Drawing.Point(129, 147);
+            this.btnEntrar.Location = new System.Drawing.Point(172, 181);
+            this.btnEntrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnEntrar.Name = "btnEntrar";
-            this.btnEntrar.Size = new System.Drawing.Size(75, 23);
+            this.btnEntrar.Size = new System.Drawing.Size(100, 28);
             this.btnEntrar.TabIndex = 9;
             this.btnEntrar.Text = "Entrar";
             this.btnEntrar.UseVisualStyleBackColor = true;
@@ -48,47 +49,48 @@
             // 
             // txtSenha
             // 
-            this.txtSenha.Location = new System.Drawing.Point(81, 96);
+            this.txtSenha.Location = new System.Drawing.Point(108, 118);
+            this.txtSenha.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtSenha.Name = "txtSenha";
-            this.txtSenha.Size = new System.Drawing.Size(195, 20);
+            this.txtSenha.Size = new System.Drawing.Size(259, 22);
             this.txtSenha.TabIndex = 8;
+            this.txtSenha.UseSystemPasswordChar = true;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(36, 99);
+            this.label2.Location = new System.Drawing.Point(48, 122);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(41, 13);
+            this.label2.Size = new System.Drawing.Size(53, 17);
             this.label2.TabIndex = 6;
             this.label2.Text = "Senha:";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(39, 64);
+            this.label1.Location = new System.Drawing.Point(52, 79);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(36, 13);
+            this.label1.Size = new System.Drawing.Size(47, 17);
             this.label1.TabIndex = 5;
             this.label1.Text = "Login:";
             // 
             // txtLogin
             // 
-            this.txtLogin.FormattingEnabled = true;
-            this.txtLogin.Items.AddRange(new object[] {
-            "Dentista",
-            "Secretaria"});
-            this.txtLogin.Location = new System.Drawing.Point(81, 61);
+            this.txtLogin.Location = new System.Drawing.Point(107, 76);
+            this.txtLogin.Margin = new System.Windows.Forms.Padding(4);
             this.txtLogin.Name = "txtLogin";
-            this.txtLogin.Size = new System.Drawing.Size(195, 21);
-            this.txtLogin.TabIndex = 10;
+            this.txtLogin.Size = new System.Drawing.Size(259, 22);
+            this.txtLogin.TabIndex = 11;
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(304, 329);
+            this.ClientSize = new System.Drawing.Size(405, 405);
             this.Controls.Add(this.txtLogin);
             this.Controls.Add(this.btnEntrar);
             this.Controls.Add(this.txtSenha);
@@ -96,6 +98,7 @@
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -112,6 +115,6 @@
         private System.Windows.Forms.TextBox txtSenha;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox txtLogin;
+        private System.Windows.Forms.TextBox txtLogin;
     }
 }

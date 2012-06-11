@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using CLINODONTO_SOFT.telas;
 using CLINODONTO_SOFT.telas.Controle_de_usuarios;
+using CLINODONTO_SOFT.classes;
 
 namespace CLINODONTO_SOFT
 {
@@ -16,6 +17,7 @@ namespace CLINODONTO_SOFT
         public TelaPrincipal()
         {
             InitializeComponent();
+            lblUsuarioativo.Text = lblUsuarioativo.Text + " " + classLogin.nomeUsuario;
         }
 
         private void bancoDeDadosToolStripMenuItem_Click(object sender, EventArgs e)

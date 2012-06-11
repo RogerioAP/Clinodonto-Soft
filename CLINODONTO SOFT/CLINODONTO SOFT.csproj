@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classes\classLogin.cs" />
     <Compile Include="telas\Controle_de_usuarios\frmBuscardentista.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -172,7 +173,9 @@
     <Compile Include="telas\frmFicha_clinica_selecionar.Designer.cs">
       <DependentUpon>frmFicha_clinica_selecionar.cs</DependentUpon>
     </Compile>
-    <Compile Include="telas\Controle_pacientes\frmProntuario.cs" />
+    <Compile Include="telas\Controle_pacientes\frmProntuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="telas\Controle_pacientes\frmProntuario.Designer.cs">
       <DependentUpon>frmProntuario.cs</DependentUpon>
     </Compile>
