@@ -8,7 +8,9 @@ namespace CLINODONTO_SOFT.classes
 {
     public class Conn
     {
+
         public static MySqlConnection mConn;
+        private static Conn con;
         //buscar das variaveis de programa
         static string connectionstring;
         static MySqlConnectionStringBuilder myCSB = new MySqlConnectionStringBuilder();
@@ -21,24 +23,21 @@ namespace CLINODONTO_SOFT.classes
 
         static public String Database { get; set; }
 
-        public static void CriarTabelas(string sql)
-        {
-            MySqlCommand commS = new MySqlCommand(sql, Conn.mConn);
-            Conn.ExecuteNonQuery(commS);
-        }
 
-        public static void Conectar(string bd)   //esse parâmetro vai ser o BD a qual o software vai se conectar no cado "odont"
+        public static void Conectar(string db)  
         {
             try
             {
-
+                
                 connectionstring = "server=" + ConfigurationSettings.AppSettings["hostDB"].ToString();
-                connectionstring += ";database=" + bd/*ConfigurationSettings.AppSettings["database"].ToString()*/;
+                connectionstring += ";database=" + db;
                 connectionstring += ";uid=" + ConfigurationSettings.AppSettings["userDB"].ToString();
                 connectionstring += ";pwd='" + ConfigurationSettings.AppSettings["passwordDB"].ToString() + "'";
 
+
                 mConn = new MySqlConnection(connectionstring);
                 mConn.Open();
+
             }
             catch (MySqlException e)
             {
@@ -46,10 +45,19 @@ namespace CLINODONTO_SOFT.classes
             }
         }
 
+
         public static void ExecuteNonQuery(MySqlCommand commS)
         {
+
             if (mConn.State == ConnectionState.Open)
             {
+                /*Representa uma instrução SQL a ser executada
+                 * Neste caso, o construtor recebe como parâmetro o comando SQL 
+                 * e a conexão
+                 */
+
+                //Executa a SQL no banco de dados. 
+                //Tratamento de exceção
                 try
                 {
                     int i = commS.ExecuteNonQuery();
@@ -61,36 +69,67 @@ namespace CLINODONTO_SOFT.classes
                 }
             }
 
+
         }
 
         public static DataTable ExecuteQuery(MySqlCommand commS)
         {
             if (mConn.State == ConnectionState.Open)
             {
-                //Executa a SQL no banco de dados
-                try
-                {
-                    MySqlDataAdapter da = new MySqlDataAdapter();
-                    da.SelectCommand = commS;
-                    DataTable dt = new DataTable();
-                    da.Fill(dt);
 
-                    return dt;
-                }
-                catch (MySqlException e)
+                if (mConn.State == ConnectionState.Open)
                 {
-                    throw e; 
+
+                    //Executa a SQL no banco de dados
+                    try
+                    {
+
+                        MySqlDataAdapter da = new MySqlDataAdapter();
+                        da.SelectCommand = commS;
+                        DataTable dt = new DataTable();
+                        da.Fill(dt);
+
+                        return dt;
+
+                    }
+                    catch (MySqlException e)
+                    {
+                        throw e;
+
+                    }
+
                 }
+                return null;
+
             }
             return null;
+
         }
-       
+        //static public string createStringConnection()
+        //{
+        //    myCSB.Server = hostDB;
+        //    myCSB.UserID = userDB;
+        //    myCSB.Password = passwdDB;
+        //    myCSB.Database = Database;
+        //    //connectionstring = myCSB.ConnectionString;
+        //    return myCSB.ConnectionString;
+        //}
+
 
         static public void Close()
         {
             mConn.Close(); //encerra a conexão com o MYSQL
             mConn.Dispose();
         }
-       
+        void recuperaConn()
+        {
+            //myCSB.Server =
+            //if (System.Configuration.ConfigurationManager.AppSettings["serverDB"] != null)
+            //{
+            //}
+        }
+
+
+
     }
 }
