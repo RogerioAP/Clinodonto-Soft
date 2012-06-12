@@ -7,17 +7,20 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Threading;
+using CLINODONTO_SOFT.classes;
+using System.Collections;
 
 
 namespace CLINODONTO_SOFT
 {
     public partial class Login : Form
     {
+        ArrayList arr = new ArrayList();
         public Login()
         {
             Thread t = new Thread(new ThreadStart(SplashScreen));
             t.Start();
-            Thread.Sleep(5000);
+            Thread.Sleep(3000);
             InitializeComponent();
             t.Abort();
             
@@ -37,33 +40,34 @@ namespace CLINODONTO_SOFT
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
-            new TelaPrincipal().ShowDialog();
-            /* MySqlConnection conn = new MySqlConnection(Conn.connectionstring);
-            MySqlCommand comado = new MySqlCommand("SELECT COUNT(*) FROM Login WHERE Login = @Login and Senha = @Senha", conn);
-
-
-            comado.Parameters.Add("@Login", MySqlDbType.VarChar).Value = txtLogin.Text;
-            comado.Parameters.Add("@Senha", MySqlDbType.VarChar).Value = txtSenha.Text;
-
-            conn.Open();
-            long i = (long)comado.ExecuteScalar();
-
-            if (i > 0)
+            if (txtLogin.Text == string.Empty || txtSenha.Text == string.Empty)
             {
-
-                TelaPrincipal l = new TelaPrincipal();
-                l.Show();
-
-                txtSenha.Clear();                
-                this.Visible = false;
-
+                MessageBox.Show("Atenção, todos os campos presisão ser preenchidos.", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-                System.Windows.Forms.MessageBox.Show("Usuario não Cadastrado.");
-                txtSenha.Clear();
+                classLogin log = new classLogin();
+                arr = log.Logar(txtLogin.Text.ToString(), txtSenha.Text.ToString());
+                int aux = arr.Count;
+                if (aux == 1)
+                {
+                    classLogin.codUsuario = (((classLogin)arr[0]).codigo);
+                    classLogin.nomeUsuario = (((classLogin)arr[0]).nome);
+                    this.Hide();
+                    txtLogin.Text = "";
+                    txtSenha.Text = "";
+                    new TelaPrincipal().ShowDialog();
+
+
+
+                }
+                else
+                {
+                    MessageBox.Show("Login ou senha estão incorretos,\n tente novamente.");
+
+                }
+
             }
-            conn.Close();*/
         }
     }
 }

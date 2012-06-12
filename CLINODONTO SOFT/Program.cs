@@ -6,6 +6,7 @@ using System.Configuration;
 using System.IO;
 using CLINODONTO_SOFT.classes;
 using CLINODONTO_SOFT.telas;
+using System.Data;
 
 namespace CLINODONTO_SOFT
 {
@@ -21,18 +22,17 @@ namespace CLINODONTO_SOFT
            try 
             {
                 Conn.Conectar("odont");
+                if (Conn.mConn.State == ConnectionState.Open)
+                {
+                    new Login().ShowDialog();
 
-                //Conn.Conectar("");
-                new Login().ShowDialog();
-                //new frmExameDental().ShowDialog();
-               //new TelaPrincipal().ShowDialog();
-                //new frmControle_Consultas().ShowDialog();
+                } 
 
             }
             catch (Exception e)
             {
                 MessageBox.Show("Não foi possível a conexão com o banco de dados!\n" + e.Message," " , MessageBoxButtons.OK, MessageBoxIcon.None);
-                //new Configuracoes().ShowDialog();
+                //new frmConfiguracoes().ShowDialog();
                
             }
             Conn.Close();
