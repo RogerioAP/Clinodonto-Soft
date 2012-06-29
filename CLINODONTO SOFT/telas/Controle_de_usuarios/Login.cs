@@ -72,10 +72,11 @@ namespace CLINODONTO_SOFT
 
         private void Login_KeyDown(object sender, KeyEventArgs e)
         {
+            
             switch (e.KeyCode)
             {
                 case Keys.Enter:
-
+                   
                     if (txtLogin.Text == string.Empty || txtSenha.Text == string.Empty)
                     {
                         MessageBox.Show("Atenção, todos os campos presisão ser preenchidos.", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
