@@ -32,16 +32,12 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.consultaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.agendarConsultasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.controleDeConsultasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.controleDeDocumentosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.usuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastroDeDentistaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastroDeSecretáriaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pacientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.controleDePacientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cadastrarPacienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.configuraçõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.bancoDeDadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ajudaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.tópicosDeAjudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sobreOClinodontoSoftToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -64,7 +60,6 @@
             this.consultaToolStripMenuItem,
             this.usuariosToolStripMenuItem,
             this.pacientesToolStripMenuItem,
-            this.configuraçõesToolStripMenuItem,
             this.ajudaToolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -78,7 +73,6 @@
             // 
             this.consultaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.agendarConsultasToolStripMenuItem,
-            this.controleDeConsultasToolStripMenuItem,
             this.controleDeDocumentosToolStripMenuItem});
             this.consultaToolStripMenuItem.Name = "consultaToolStripMenuItem";
             this.consultaToolStripMenuItem.Size = new System.Drawing.Size(88, 24);
@@ -87,22 +81,15 @@
             // agendarConsultasToolStripMenuItem
             // 
             this.agendarConsultasToolStripMenuItem.Name = "agendarConsultasToolStripMenuItem";
-            this.agendarConsultasToolStripMenuItem.Size = new System.Drawing.Size(221, 24);
-            this.agendarConsultasToolStripMenuItem.Text = "Agendar  consultas";
+            this.agendarConsultasToolStripMenuItem.Size = new System.Drawing.Size(152, 24);
+            this.agendarConsultasToolStripMenuItem.Text = "Agendar ";
             this.agendarConsultasToolStripMenuItem.Click += new System.EventHandler(this.agendarConsultasToolStripMenuItem_Click);
-            // 
-            // controleDeConsultasToolStripMenuItem
-            // 
-            this.controleDeConsultasToolStripMenuItem.Name = "controleDeConsultasToolStripMenuItem";
-            this.controleDeConsultasToolStripMenuItem.Size = new System.Drawing.Size(221, 24);
-            this.controleDeConsultasToolStripMenuItem.Text = "Efetuar consulta";
-            this.controleDeConsultasToolStripMenuItem.Click += new System.EventHandler(this.controleDeConsultasToolStripMenuItem_Click);
             // 
             // controleDeDocumentosToolStripMenuItem
             // 
             this.controleDeDocumentosToolStripMenuItem.Name = "controleDeDocumentosToolStripMenuItem";
-            this.controleDeDocumentosToolStripMenuItem.Size = new System.Drawing.Size(221, 24);
-            this.controleDeDocumentosToolStripMenuItem.Text = "Controle de consultas";
+            this.controleDeDocumentosToolStripMenuItem.Size = new System.Drawing.Size(152, 24);
+            this.controleDeDocumentosToolStripMenuItem.Text = "Gerenciar";
             this.controleDeDocumentosToolStripMenuItem.Click += new System.EventHandler(this.controleDeDocumentosToolStripMenuItem_Click);
             // 
             // usuariosToolStripMenuItem
@@ -130,8 +117,7 @@
             // pacientesToolStripMenuItem
             // 
             this.pacientesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.controleDePacientesToolStripMenuItem,
-            this.cadastrarPacienteToolStripMenuItem});
+            this.controleDePacientesToolStripMenuItem});
             this.pacientesToolStripMenuItem.Name = "pacientesToolStripMenuItem";
             this.pacientesToolStripMenuItem.Size = new System.Drawing.Size(83, 24);
             this.pacientesToolStripMenuItem.Text = "Pacientes";
@@ -142,28 +128,6 @@
             this.controleDePacientesToolStripMenuItem.Size = new System.Drawing.Size(223, 24);
             this.controleDePacientesToolStripMenuItem.Text = "Controle de pacientes";
             this.controleDePacientesToolStripMenuItem.Click += new System.EventHandler(this.controleDePacientesToolStripMenuItem_Click);
-            // 
-            // cadastrarPacienteToolStripMenuItem
-            // 
-            this.cadastrarPacienteToolStripMenuItem.Name = "cadastrarPacienteToolStripMenuItem";
-            this.cadastrarPacienteToolStripMenuItem.Size = new System.Drawing.Size(223, 24);
-            this.cadastrarPacienteToolStripMenuItem.Text = "Cadastrar paciente";
-            this.cadastrarPacienteToolStripMenuItem.Click += new System.EventHandler(this.cadastrarPacienteToolStripMenuItem_Click);
-            // 
-            // configuraçõesToolStripMenuItem
-            // 
-            this.configuraçõesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.bancoDeDadosToolStripMenuItem});
-            this.configuraçõesToolStripMenuItem.Name = "configuraçõesToolStripMenuItem";
-            this.configuraçõesToolStripMenuItem.Size = new System.Drawing.Size(116, 24);
-            this.configuraçõesToolStripMenuItem.Text = "Configurações";
-            // 
-            // bancoDeDadosToolStripMenuItem
-            // 
-            this.bancoDeDadosToolStripMenuItem.Name = "bancoDeDadosToolStripMenuItem";
-            this.bancoDeDadosToolStripMenuItem.Size = new System.Drawing.Size(185, 24);
-            this.bancoDeDadosToolStripMenuItem.Text = "banco de dados";
-            this.bancoDeDadosToolStripMenuItem.Click += new System.EventHandler(this.bancoDeDadosToolStripMenuItem_Click);
             // 
             // ajudaToolStripMenuItem1
             // 
@@ -303,16 +267,12 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem consultaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem agendarConsultasToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem controleDeConsultasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem controleDeDocumentosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem usuariosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastroDeDentistaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastroDeSecretáriaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pacientesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem controleDePacientesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem cadastrarPacienteToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem configuraçõesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem bancoDeDadosToolStripMenuItem;
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripMenuItem ajudaToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem tópicosDeAjudaToolStripMenuItem;
