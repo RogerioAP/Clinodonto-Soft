@@ -24,8 +24,8 @@ namespace CLINODONTO_SOFT
                 Conn.Conectar("odont");
                 if (Conn.mConn.State == ConnectionState.Open)
                 {
-                    new Login().ShowDialog();
-
+                   // new Login().ShowDialog();
+                    new frmControle_pacientes().ShowDialog();
                 } 
 
             }

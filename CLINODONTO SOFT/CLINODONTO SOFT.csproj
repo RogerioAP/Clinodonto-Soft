@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="classes\classLogin.cs" />
+    <Compile Include="classes\classPaciente.cs" />
+    <Compile Include="classes\classTratamento.cs" />
     <Compile Include="telas\Controle_de_usuarios\frmBuscardentista.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -167,12 +169,6 @@
     <Compile Include="telas\frmFicha_clinica.Designer.cs">
       <DependentUpon>frmFicha_clinica.cs</DependentUpon>
     </Compile>
-    <Compile Include="telas\frmFicha_clinica_selecionar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="telas\frmFicha_clinica_selecionar.Designer.cs">
-      <DependentUpon>frmFicha_clinica_selecionar.cs</DependentUpon>
-    </Compile>
     <Compile Include="telas\Controle_pacientes\frmProntuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -251,9 +247,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="telas\frmFicha_clinica.resx">
       <DependentUpon>frmFicha_clinica.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="telas\frmFicha_clinica_selecionar.resx">
-      <DependentUpon>frmFicha_clinica_selecionar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="telas\Controle_pacientes\frmProntuario.resx">
       <DependentUpon>frmProntuario.cs</DependentUpon>

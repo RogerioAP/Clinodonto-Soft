@@ -38,7 +38,7 @@ namespace CLINODONTO_SOFT
        
         private void controleDeConsultasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new frmFicha_clinica_selecionar().ShowDialog();
+          
         }
 
         private void agendarConsultasToolStripMenuItem_Click(object sender, EventArgs e)
@@ -67,6 +67,11 @@ namespace CLINODONTO_SOFT
         {
            new frmBuscardentista().ShowDialog();
         }
+
+         private void button1_Click(object sender, EventArgs e)
+         {
+             new frmFicha_clinica().Show();
+         }
 
       
     }

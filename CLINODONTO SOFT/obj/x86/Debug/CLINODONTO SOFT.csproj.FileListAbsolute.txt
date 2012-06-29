@@ -252,7 +252,6 @@ C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.t
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmExame_fisico.resources
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
-C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica_selecionar.resources
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmProntuario.resources
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog

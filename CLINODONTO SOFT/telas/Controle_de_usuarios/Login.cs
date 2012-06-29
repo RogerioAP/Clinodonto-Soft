@@ -69,5 +69,45 @@ namespace CLINODONTO_SOFT
 
             }
         }
+
+        private void Login_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                case Keys.Enter:
+
+                    if (txtLogin.Text == string.Empty || txtSenha.Text == string.Empty)
+                    {
+                        MessageBox.Show("Atenção, todos os campos presisão ser preenchidos.", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        classLogin log = new classLogin();
+                        arr = log.Logar(txtLogin.Text.ToString(), txtSenha.Text.ToString());
+                        int aux = arr.Count;
+                        if (aux == 1)
+                        {
+                            classLogin.codUsuario = (((classLogin)arr[0]).codigo);
+                            classLogin.nomeUsuario = (((classLogin)arr[0]).nome);
+                            this.Hide();
+                            txtLogin.Text = "";
+                            txtSenha.Text = "";
+                            new TelaPrincipal().ShowDialog();
+
+
+
+                        }
+                        else
+                        {
+                            MessageBox.Show("Login ou senha estão incorretos,\n tente novamente.");
+
+                        }
+
+                    }
+                    break;
+            }
+        }
+
+       
     }
 }
