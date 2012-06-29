@@ -16,6 +16,7 @@ namespace CLINODONTO_SOFT
     public partial class Login : Form
     {
         ArrayList arr = new ArrayList();
+     
         public Login()
         {
             Thread t = new Thread(new ThreadStart(SplashScreen));
@@ -56,7 +57,7 @@ namespace CLINODONTO_SOFT
                     this.Hide();
                     txtLogin.Text = "";
                     txtSenha.Text = "";
-                    new TelaPrincipal().ShowDialog();
+                    LoginOK = true;
 
 
 
@@ -69,5 +70,46 @@ namespace CLINODONTO_SOFT
 
             }
         }
+
+        private void Login_KeyDown(object sender, KeyEventArgs e)
+        {
+            
+            switch (e.KeyCode)
+            {
+                case Keys.Enter:
+                   
+                    if (txtLogin.Text == string.Empty || txtSenha.Text == string.Empty)
+                    {
+                        MessageBox.Show("Atenção, todos os campos presisão ser preenchidos.", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        classLogin log = new classLogin();
+                        arr = log.Logar(txtLogin.Text.ToString(), txtSenha.Text.ToString());
+                        int aux = arr.Count;
+                        if (aux == 1)
+                        {
+                            classLogin.codUsuario = (((classLogin)arr[0]).codigo);
+                            classLogin.nomeUsuario = (((classLogin)arr[0]).nome);
+                            this.Hide();
+                            txtLogin.Text = "";
+                            txtSenha.Text = "";
+                            LoginOK = true;
+
+
+
+                        }
+                        else
+                        {
+                            MessageBox.Show("Login ou senha estão incorretos,\n tente novamente.");
+
+                        }
+
+                    }
+                    break;
+            }
+        }
+
+       
     }
 }
