@@ -75,3 +75,34 @@ J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONT
 J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.pdb
 J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\bin\Release\MySql.Data.dll
 J:\Rogerio 9147-5191\Odont\CLINODONTO SOFT\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Properties.Resources.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe.config
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.exe
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\bin\Release\CLINODONTO SOFT.pdb
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\bin\Release\MySql.Data.dll
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscardentista.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscaSecretaria.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmCadastrardentista.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmExpediente.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmNovodentista.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.frmExameDental.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.frmControle_Consultas.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Login.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Splash.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.Properties.Resources.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.TelaPrincipal.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmAgendamento.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmAgendamento_selecionar.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmAnamnese.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmCadastrar_paciente.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmProntuario.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO_SOFT.telas.frmSobre.resources
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.exe
+C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Release\CLINODONTO SOFT.pdb
