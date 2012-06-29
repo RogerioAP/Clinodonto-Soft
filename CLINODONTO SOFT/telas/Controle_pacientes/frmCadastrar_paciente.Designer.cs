@@ -37,11 +37,8 @@
             this.txtEnderecores = new System.Windows.Forms.TextBox();
             this.txtProfissao = new System.Windows.Forms.TextBox();
             this.txtEstado = new System.Windows.Forms.TextBox();
-            this.txtCpf = new System.Windows.Forms.TextBox();
             this.txtOrgaoexp = new System.Windows.Forms.TextBox();
-            this.txtRg = new System.Windows.Forms.TextBox();
             this.txtNacionalidade = new System.Windows.Forms.TextBox();
-            this.txtNascimento = new System.Windows.Forms.TextBox();
             this.cbxSexo = new System.Windows.Forms.ComboBox();
             this.txtNaturalidade = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -58,6 +55,9 @@
             this.txtCurso = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.txtNascimento = new System.Windows.Forms.MaskedTextBox();
+            this.txtCpf = new System.Windows.Forms.MaskedTextBox();
+            this.txtRg = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // txtNome
@@ -131,14 +131,6 @@
             this.txtEstado.Size = new System.Drawing.Size(169, 22);
             this.txtEstado.TabIndex = 108;
             // 
-            // txtCpf
-            // 
-            this.txtCpf.Location = new System.Drawing.Point(169, 92);
-            this.txtCpf.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.txtCpf.Name = "txtCpf";
-            this.txtCpf.Size = new System.Drawing.Size(180, 22);
-            this.txtCpf.TabIndex = 107;
-            // 
             // txtOrgaoexp
             // 
             this.txtOrgaoexp.Location = new System.Drawing.Point(448, 60);
@@ -147,14 +139,6 @@
             this.txtOrgaoexp.Size = new System.Drawing.Size(177, 22);
             this.txtOrgaoexp.TabIndex = 106;
             // 
-            // txtRg
-            // 
-            this.txtRg.Location = new System.Drawing.Point(169, 60);
-            this.txtRg.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.txtRg.Name = "txtRg";
-            this.txtRg.Size = new System.Drawing.Size(153, 22);
-            this.txtRg.TabIndex = 105;
-            // 
             // txtNacionalidade
             // 
             this.txtNacionalidade.Location = new System.Drawing.Point(168, 236);
@@ -162,14 +146,6 @@
             this.txtNacionalidade.Name = "txtNacionalidade";
             this.txtNacionalidade.Size = new System.Drawing.Size(170, 22);
             this.txtNacionalidade.TabIndex = 104;
-            // 
-            // txtNascimento
-            // 
-            this.txtNascimento.Location = new System.Drawing.Point(169, 156);
-            this.txtNascimento.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.txtNascimento.Name = "txtNascimento";
-            this.txtNascimento.Size = new System.Drawing.Size(112, 22);
-            this.txtNascimento.TabIndex = 103;
             // 
             // cbxSexo
             // 
@@ -316,12 +292,40 @@
             this.label3.TabIndex = 130;
             this.label3.Text = "Todos os campos com * precisam ser preenchidos.";
             // 
+            // txtNascimento
+            // 
+            this.txtNascimento.Location = new System.Drawing.Point(169, 156);
+            this.txtNascimento.Mask = "00/00/0000";
+            this.txtNascimento.Name = "txtNascimento";
+            this.txtNascimento.Size = new System.Drawing.Size(123, 22);
+            this.txtNascimento.TabIndex = 131;
+            this.txtNascimento.ValidatingType = typeof(System.DateTime);
+            // 
+            // txtCpf
+            // 
+            this.txtCpf.Location = new System.Drawing.Point(166, 91);
+            this.txtCpf.Mask = "00000000000";
+            this.txtCpf.Name = "txtCpf";
+            this.txtCpf.Size = new System.Drawing.Size(156, 22);
+            this.txtCpf.TabIndex = 132;
+            // 
+            // txtRg
+            // 
+            this.txtRg.Location = new System.Drawing.Point(168, 57);
+            this.txtRg.Mask = "00000000";
+            this.txtRg.Name = "txtRg";
+            this.txtRg.Size = new System.Drawing.Size(156, 22);
+            this.txtRg.TabIndex = 133;
+            // 
             // frmCadastrar_paciente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(777, 474);
+            this.Controls.Add(this.txtRg);
+            this.Controls.Add(this.txtCpf);
+            this.Controls.Add(this.txtNascimento);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtCurso);
             this.Controls.Add(this.label2);
@@ -333,11 +337,8 @@
             this.Controls.Add(this.txtEnderecores);
             this.Controls.Add(this.txtProfissao);
             this.Controls.Add(this.txtEstado);
-            this.Controls.Add(this.txtCpf);
             this.Controls.Add(this.txtOrgaoexp);
-            this.Controls.Add(this.txtRg);
             this.Controls.Add(this.txtNacionalidade);
-            this.Controls.Add(this.txtNascimento);
             this.Controls.Add(this.cbxSexo);
             this.Controls.Add(this.txtNaturalidade);
             this.Controls.Add(this.label1);
@@ -358,7 +359,6 @@
             this.Name = "frmCadastrar_paciente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmCadastrar_paciente";
-         
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -374,11 +374,8 @@
         private System.Windows.Forms.TextBox txtEnderecores;
         private System.Windows.Forms.TextBox txtProfissao;
         private System.Windows.Forms.TextBox txtEstado;
-        private System.Windows.Forms.TextBox txtCpf;
         private System.Windows.Forms.TextBox txtOrgaoexp;
-        private System.Windows.Forms.TextBox txtRg;
         private System.Windows.Forms.TextBox txtNacionalidade;
-        private System.Windows.Forms.TextBox txtNascimento;
         private System.Windows.Forms.ComboBox cbxSexo;
         private System.Windows.Forms.TextBox txtNaturalidade;
         private System.Windows.Forms.Label label1;
@@ -395,5 +392,8 @@
         private System.Windows.Forms.TextBox txtCurso;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.MaskedTextBox txtNascimento;
+        private System.Windows.Forms.MaskedTextBox txtCpf;
+        private System.Windows.Forms.MaskedTextBox txtRg;
     }
 }

@@ -16,6 +16,7 @@ namespace CLINODONTO_SOFT
     public partial class Login : Form
     {
         ArrayList arr = new ArrayList();
+     
         public Login()
         {
             Thread t = new Thread(new ThreadStart(SplashScreen));
@@ -56,7 +57,7 @@ namespace CLINODONTO_SOFT
                     this.Hide();
                     txtLogin.Text = "";
                     txtSenha.Text = "";
-                    new TelaPrincipal().ShowDialog();
+                    LoginOK = true;
 
 
 
@@ -93,7 +94,7 @@ namespace CLINODONTO_SOFT
                             this.Hide();
                             txtLogin.Text = "";
                             txtSenha.Text = "";
-                            new TelaPrincipal().ShowDialog();
+                            LoginOK = true;
 
 
 

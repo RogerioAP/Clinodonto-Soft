@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Windows.Forms;
-using System.Configuration;
-using System.IO;
 using CLINODONTO_SOFT.classes;
-using CLINODONTO_SOFT.telas;
 using System.Data;
 
 namespace CLINODONTO_SOFT
@@ -24,8 +19,21 @@ namespace CLINODONTO_SOFT
                 Conn.Conectar("odont");
                 if (Conn.mConn.State == ConnectionState.Open)
                 {
-                    new Login().ShowDialog();
-                    
+                  
+                    Login log = new Login();
+                    log.ShowDialog();
+                    if (log.LoginOK == true)
+                    {
+
+                        //Conn.Conectar();
+                        
+                       new TelaPrincipal().ShowDialog();
+                        
+
+                        Conn.Close();
+                    }
+
+
                 } 
 
             }

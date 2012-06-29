@@ -81,14 +81,14 @@
             // agendarConsultasToolStripMenuItem
             // 
             this.agendarConsultasToolStripMenuItem.Name = "agendarConsultasToolStripMenuItem";
-            this.agendarConsultasToolStripMenuItem.Size = new System.Drawing.Size(152, 24);
+            this.agendarConsultasToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
             this.agendarConsultasToolStripMenuItem.Text = "Agendar ";
             this.agendarConsultasToolStripMenuItem.Click += new System.EventHandler(this.agendarConsultasToolStripMenuItem_Click);
             // 
             // controleDeDocumentosToolStripMenuItem
             // 
             this.controleDeDocumentosToolStripMenuItem.Name = "controleDeDocumentosToolStripMenuItem";
-            this.controleDeDocumentosToolStripMenuItem.Size = new System.Drawing.Size(152, 24);
+            this.controleDeDocumentosToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
             this.controleDeDocumentosToolStripMenuItem.Text = "Gerenciar";
             this.controleDeDocumentosToolStripMenuItem.Click += new System.EventHandler(this.controleDeDocumentosToolStripMenuItem_Click);
             // 
@@ -252,6 +252,7 @@
             this.Name = "TelaPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TelaPrincipal";
+    
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.statusStrip1.ResumeLayout(false);

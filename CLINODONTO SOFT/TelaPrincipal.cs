@@ -14,6 +14,7 @@ namespace CLINODONTO_SOFT
 {
     public partial class TelaPrincipal : Form
     {
+       
         public TelaPrincipal()
         {
             InitializeComponent();
@@ -73,6 +74,6 @@ namespace CLINODONTO_SOFT
              new frmFicha_clinica().Show();
          }
 
-      
+             
     }
 }

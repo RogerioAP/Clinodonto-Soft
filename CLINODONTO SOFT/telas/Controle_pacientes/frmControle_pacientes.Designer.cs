@@ -223,6 +223,7 @@
             this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.KeyPreview = true;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "frmControle_pacientes";
@@ -230,6 +231,7 @@
             this.Text = "x";
             this.Load += new System.EventHandler(this.frmControle_pacientes_Load);
             this.EnabledChanged += new System.EventHandler(this.frmControle_pacientes_EnabledChanged);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmControle_pacientes_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
