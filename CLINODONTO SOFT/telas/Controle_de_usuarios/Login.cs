@@ -24,9 +24,9 @@ namespace CLINODONTO_SOFT
             Thread.Sleep(3000);
             InitializeComponent();
             t.Abort();
-            
         }
 
+        //exibição da tela splash
         public void SplashScreen()
         {
             System.Windows.Forms.Application.Run(new Splash());
@@ -34,22 +34,38 @@ namespace CLINODONTO_SOFT
 
         public bool LoginOK { get; set; }
 
-        private void Login_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnEntrar_Click(object sender, EventArgs e)
         {
+            //ao clicar no botão ENTRAR
+            Login();
+        }
+
+        private void Login_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                //ao precionar o botão ENTER
+                case Keys.Enter:
+
+                    Login();
+                    break;
+            }
+        }
+
+        public void Login()
+        {
+            //método para testar login e senha
             if (txtLogin.Text == string.Empty || txtSenha.Text == string.Empty)
             {
-                MessageBox.Show("Atenção, todos os campos presisão ser preenchidos.", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MudarLabel();
+                MessageBox.Show("Atenção! Todos os campos com * precisam ser preenchidos.", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
                 classLogin log = new classLogin();
                 arr = log.Logar(txtLogin.Text.ToString(), txtSenha.Text.ToString());
                 int aux = arr.Count;
+
                 if (aux == 1)
                 {
                     classLogin.codUsuario = (((classLogin)arr[0]).codigo);
@@ -58,58 +74,22 @@ namespace CLINODONTO_SOFT
                     txtLogin.Text = "";
                     txtSenha.Text = "";
                     LoginOK = true;
-
-
-
                 }
                 else
                 {
-                    MessageBox.Show("Login ou senha estão incorretos,\n tente novamente.");
-
+                    MessageBox.Show("Login ou senha estão incorretos!\n Tente novamente.");
                 }
-
             }
         }
-
-        private void Login_KeyDown(object sender, KeyEventArgs e)
+        
+        //alterar textos para melhor vizualização do usuário
+        public void MudarLabel()
         {
-            
-            switch (e.KeyCode)
-            {
-                case Keys.Enter:
-                   
-                    if (txtLogin.Text == string.Empty || txtSenha.Text == string.Empty)
-                    {
-                        MessageBox.Show("Atenção, todos os campos presisão ser preenchidos.", "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
-                    else
-                    {
-                        classLogin log = new classLogin();
-                        arr = log.Logar(txtLogin.Text.ToString(), txtSenha.Text.ToString());
-                        int aux = arr.Count;
-                        if (aux == 1)
-                        {
-                            classLogin.codUsuario = (((classLogin)arr[0]).codigo);
-                            classLogin.nomeUsuario = (((classLogin)arr[0]).nome);
-                            this.Hide();
-                            txtLogin.Text = "";
-                            txtSenha.Text = "";
-                            LoginOK = true;
+            lblLogin.Text = "Login *";
+            lblSenha.Text = "Senha *";
 
-
-
-                        }
-                        else
-                        {
-                            MessageBox.Show("Login ou senha estão incorretos,\n tente novamente.");
-
-                        }
-
-                    }
-                    break;
-            }
+            lblLogin.ForeColor = Color.Red;
+            lblSenha.ForeColor = Color.Red;
         }
-
-       
     }
 }
