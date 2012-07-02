@@ -256,3 +256,33 @@ C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.t
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Gabriel\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe.config
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.exe
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO SOFT.pdb
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.exe
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\bin\Debug\CLINODONTO SOFT.pdb
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscardentista.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmBuscaSecretaria.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmCadastrardentista.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmExpediente.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.Controle_de_usuarios.frmNovodentista.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Cadastro_Exame_Externo.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmExameDental.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.frmControle_Consultas.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Login.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Splash.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.Properties.Resources.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.TelaPrincipal.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAgendamento_selecionar.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmAnamnese.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmCadastrar_paciente.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmConfiguracoes.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmControle_pacientes.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmExame_fisico.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmFicha_clinica.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmProntuario.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\CLINODONTO_SOFT.telas.frmSobre.resources
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rogerio\.ssh\source\Clinodonto-Soft\CLINODONTO SOFT\obj\x86\Debug\GenerateResource.write.1.tlog

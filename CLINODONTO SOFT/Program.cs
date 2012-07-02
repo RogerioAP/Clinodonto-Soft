@@ -14,26 +14,22 @@ namespace CLINODONTO_SOFT
             Application.SetCompatibleTextRenderingDefault(false);
            
 
-           try 
+            try 
             {
                 Conn.Conectar("odont");
                 if (Conn.mConn.State == ConnectionState.Open)
                 {
-                  
                     Login log = new Login();
                     log.ShowDialog();
+
                     if (log.LoginOK == true)
                     {
-
                         //Conn.Conectar();
                         
                        new TelaPrincipal().ShowDialog();
                         
-
-                        Conn.Close();
+                       Conn.Close();
                     }
-
-
                 } 
 
             }
